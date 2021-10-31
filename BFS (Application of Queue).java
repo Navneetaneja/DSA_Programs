@@ -14,7 +14,6 @@ class Node{
 public class Main
 {
 	public static void main(String[] args) {
-	    ArrayList<Node> ans=new ArrayList<>();
 		Node A=new Node('A');
 		Node B=new Node('B');
 		Node C=new Node('C');
