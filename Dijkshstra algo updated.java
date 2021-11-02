@@ -1,3 +1,4 @@
+/* single source shortest path . To find min distance from one node to all nodes*/
 import java.util.*;
 class Node
 {

@@ -1,3 +1,5 @@
+/*To find a loop in graph without going to other nodes twice or more..*/
+
 import java.util.*;
 
 class Node{

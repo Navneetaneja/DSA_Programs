@@ -1,3 +1,4 @@
+/* To find min distance from all nodes to other all nodes */
 import java.util.*;
 class Node{
     int data;
